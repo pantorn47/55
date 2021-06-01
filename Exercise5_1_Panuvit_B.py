@@ -1,0 +1,6 @@
+a = int(input("Put number :"))
+b = int(input("Put number :"))
+print(a,"+",b,"=" ,a+b)
+print(a,"-",b,"=" ,a-b)
+print(a,"*",b,"=" ,a*b)
+print(a,"/",b,"=" ,a/b)
